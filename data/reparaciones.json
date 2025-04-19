@@ -1,0 +1,37 @@
+[
+  {
+    "descripcion": "Cambio de aceite y filtro",
+    "fecha_ingreso": "2025-04-10",
+    "fecha_entrega": "2025-04-11",
+    "estado": "Completado",
+    "vehiculo_id": 1
+  },
+  {
+    "descripcion": "Reemplazo de frenos delanteros",
+    "fecha_ingreso": "2025-04-12",
+    "fecha_entrega": "2025-04-14",
+    "estado": "En proceso",
+    "vehiculo_id": 2
+  },
+  {
+    "descripcion": "Reparación de sistema eléctrico",
+    "fecha_ingreso": "2025-04-15",
+    "fecha_entrega": null,
+    "estado": "Pendiente",
+    "vehiculo_id": 3
+  },
+  {
+    "descripcion": "Reemplazo de neumáticos",
+    "fecha_ingreso": "2025-04-16",
+    "fecha_entrega": "2025-04-17",
+    "estado": "Completado",
+    "vehiculo_id": 4
+  },
+  {
+    "descripcion": "Revisión general y cambio de filtros",
+    "fecha_ingreso": "2025-04-18",
+    "fecha_entrega": "2025-04-20",
+    "estado": "Completado",
+    "vehiculo_id": 5
+  }
+]

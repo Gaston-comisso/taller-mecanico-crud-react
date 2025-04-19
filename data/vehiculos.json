@@ -1,0 +1,62 @@
+[
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "patente": "ABC123",
+    "año": 2020
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Fiesta",
+    "patente": "DEF456",
+    "año": 2018
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Cruze",
+    "patente": "GHI789",
+    "año": 2022
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "patente": "JKL012",
+    "año": 2021
+  },
+  {
+    "marca": "BMW",
+    "modelo": "Serie 3",
+    "patente": "MNO345",
+    "año": 2019
+  },
+  {
+    "marca": "Audi",
+    "modelo": "A4",
+    "patente": "PQR678",
+    "año": 2023
+  },
+  {
+    "marca": "Mercedes-Benz",
+    "modelo": "C-Class",
+    "patente": "STU901",
+    "año": 2020
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Altima",
+    "patente": "VWX234",
+    "año": 2017
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Civic",
+    "patente": "YZA567",
+    "año": 2021
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Elantra",
+    "patente": "BCD890",
+    "año": 2022
+  }
+]

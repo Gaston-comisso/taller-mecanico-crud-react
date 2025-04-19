@@ -1,0 +1,100 @@
+/* App.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+  color: #333; /* Color de texto para que se distinga mejor */
+}
+
+.container {
+  width: 90%; /* Reducción del tamaño del contenedor */
+  max-width: 1200px; /* Limita el tamaño máximo */
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  margin: 0 auto; /* Centra el contenedor */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #2c3e50; /* Color más oscuro para el título */
+}
+
+.table-section {
+  margin-bottom: 20px; /* Reducir espacio entre tablas */
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.data-table th,
+.data-table td {
+  padding: 10px 15px; /* Reducción del padding para mejor visibilidad */
+  text-align: left;
+  border: 1px solid #ddd;
+  font-size: 0.95rem; /* Tamaño de fuente ligeramente más pequeño */
+}
+
+.data-table th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.data-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.data-table tr:hover {
+  background-color: #ddd;
+}
+
+.data-table td {
+  color: #555; /* Color de texto más suave para las celdas */
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+/* Estilo para los botones dentro de las tablas */
+button {
+  padding: 5px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 0 5px;
+}
+
+/* Botón de Editar (verde) */
+.btn-edit {
+  background-color: #4caf50;
+  color: white;
+  font-size: 1rem;
+}
+
+.btn-edit:hover {
+  background-color: #45a049;
+}
+
+/* Botón de Borrar (rojo) */
+.btn-delete {
+  background-color: #f44336;
+  color: white;
+  font-size: 1rem;
+}
+
+.btn-delete:hover {
+  background-color: #e53935;
+}
