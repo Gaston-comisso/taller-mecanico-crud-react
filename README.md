@@ -32,7 +32,7 @@ source <nombre_del_entorno>/bin/activate
 
 #### En Windows:
 ```sh
-<nombre_del_entorno>\Scriptsctivate
+<nombre_del_entorno>\Scripts\activate
 ```
 
 ### 3. Instalar dependencias del backend
